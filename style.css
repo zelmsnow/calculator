@@ -1,0 +1,14 @@
+button
+{
+    width: 40px;
+    height: 40px;
+}
+
+.calcBody
+{
+    background-color: grey;
+}
+.calcText
+{
+    float:right;
+}
